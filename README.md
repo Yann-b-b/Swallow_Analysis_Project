@@ -42,7 +42,7 @@ The primary model used in this project is a Convolutional Neural Network (CNN) w
 
 ## Future Work
 
-- **Model Optimization**: Further optimization of the CNN architecture and hyperparameters to improve performance on the test dataset.
+- **Model Improvements**: Further optimization of the CNN architecture and hyperparameters to improve performance on the test dataset.
 - **Feature Engineering**: Explore additional features or transformations of the spectrogram data to enhance model accuracy.
 - **Real-time Application**: Develop a real-time application that can process and analyze SeMG data for swallow detection in real-time.
 
