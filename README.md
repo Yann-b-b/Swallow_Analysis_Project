@@ -49,8 +49,7 @@ The primary model used in this project is a Convolutional Neural Network (CNN) w
 ## Getting Started
 
 To get started with the project, clone this repository and follow the instructions in the notebooks. Ensure you have the necessary dependencies installed, including `librosa`, `torch`, and `matplotlib`.
-You'll also have to download the SeMG dataset which you can find here: https://www.sciencedirect.com/science/article/pii/S0957417422010740
-
+You'll also have to download the SeMG dataset which you can find here: https://rdr.ucl.ac.uk/articles/dataset/sEMG_of_Swallowing_Coughing_and_Speech/24297766
 ```bash
 git clone https://github.com/YOUR_USERNAME/swallow-analysis.git
 cd swallow-analysis
