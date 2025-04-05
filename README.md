@@ -4,7 +4,7 @@ This repository contains the code and resources developed for the analysis of sw
 
 ## Presentation and Final Results
 
-[embed]https://github.com/Yann-b-b/Swallow_Analysis_Project/blob/main/SRC%20Presentation%20(5).pdf[/embed] 
+https://github.com/Yann-b-b/Swallow_Analysis_Project/blob/main/SRC%20Presentation%20(5).pdf
 
 ## Project Structure
 
