@@ -2,7 +2,7 @@
 
 This repository contains the code and resources developed for the analysis of swallowing sounds using machine learning techniques. The goal of the project is to classify swallowing events and detect potential swallowing disorders by analyzing audio data from surface electromyography (SeMG) signals.
 
-## Presentation and Final Results
+## Presentation: Pipeline and Final Results
 
 https://github.com/Yann-b-b/Swallow_Analysis_Project/blob/main/SRC%20Presentation%20(5).pdf
 
