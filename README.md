@@ -37,20 +37,9 @@ Spectrograms are generated from the WAV files created from SeMG data. These spec
 ### Machine Learning Models
 The primary model used in this project is a Convolutional Neural Network (CNN) with a segmentation task to identify swallow events. Additionally, a regression task is implemented to estimate the percentage of the audio signal that corresponds to a swallow event.
 
-### Loss Function
-[STILL WORKING ON] A custom loss function combines the cross-entropy loss for classification with L1 loss for the regression task. This ensures that the model not only classifies the segments accurately but also provides meaningful regression outputs.
 
 ## Future Work
 
 - **Model Improvements**: Further optimization of the CNN architecture and hyperparameters to improve performance on the test dataset.
 - **Feature Engineering**: Explore additional features or transformations of the spectrogram data to enhance model accuracy.
 - **Real-time Application**: Develop a real-time application that can process and analyze SeMG data for swallow detection in real-time.
-
-## Getting Started
-
-To get started with the project, clone this repository and follow the instructions in the notebooks. Ensure you have the necessary dependencies installed, including `librosa`, `torch`, and `matplotlib`.
-You'll also have to download the SeMG dataset which you can find here: https://rdr.ucl.ac.uk/articles/dataset/sEMG_of_Swallowing_Coughing_and_Speech/24297766
-```bash
-git clone https://github.com/YOUR_USERNAME/swallow-analysis.git
-cd swallow-analysis
-pip install -r requirements.txt
